@@ -28,7 +28,7 @@ public class Turista implements ITurista {
 
     @Override
     public void visitarDepartamento(Cochabamba cochabamba) {
-        System.out.println("Se visita la ciudad de la Paz");
+        System.out.println("Se visita la ciudad de Cochabamba");
         System.out.println("La informacion de la ciudad es:");
         cochabamba.showInfo();
         double gastado=cochabamba.getNumHabitantes()*0.1;
@@ -42,7 +42,7 @@ public class Turista implements ITurista {
 
     @Override
     public void visitarDepartamento(SantaCruz santaCruz) {
-        System.out.println("Se visita la ciudad de la Paz");
+        System.out.println("Se visita la ciudad de Santa Cruz");
         System.out.println("La informacion de la ciudad es:");
         santaCruz.showInfo();
         double gastado= santaCruz.getNumprovincias()*0.5;

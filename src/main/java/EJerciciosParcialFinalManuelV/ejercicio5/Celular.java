@@ -52,10 +52,12 @@ private int price;
 
     @Override
     public void operation() {
+        System.out.println("Atributos del celular:");
         System.out.println("Marca: "+marca);
         System.out.println("ram: "+ram+" GB" );
         System.out.println("Almacenamiento: "+almacenamiento+" GB");
         System.out.println("Cpu: "+cpu);
-        System.out.println("Precio: "+price+ "Dolares");
+        System.out.println("Precio: "+price+ " Bolivianos");
+        System.out.println("-----------------------------------------------------");
     }
 }

@@ -8,8 +8,8 @@ EJerciciosParcialFinalManuelV/ejercicio1/SantaCruz.java
  EJerciciosParcialFinalManuelV.ejercicio1.SantaCruz
 bridge/basic/Client.java
  bridge.basic.Client
-EJerciciosParcialFinalManuelV/ejercicio5/Celular.java
- EJerciciosParcialFinalManuelV.ejercicio5.Celular
+EJerciciosParcialFinalManuelV/ejercicio1/Turista.java
+ EJerciciosParcialFinalManuelV.ejercicio1.Turista
 decorator/basic/DecoratorConcrete1.java
  decorator.basic.DecoratorConcrete1
 adapter/basic/ConcreteAdapter1.java
@@ -38,16 +38,16 @@ adapter/basic/Client.java
  adapter.basic.Client
 visitor/basic/ElementConcrete1.java
  visitor.basic.ElementConcrete1
-EJerciciosParcialFinalManuelV/ejercicio1/Turista.java
- EJerciciosParcialFinalManuelV.ejercicio1.Turista
+proxy/basic/ISubject.java
+ proxy.basic.ISubject
 visitor/basic/IElement.java
  visitor.basic.IElement
 visitor/basic/Cliente.java
  visitor.basic.Cliente
 bridge/basic/ConcreteImplementorB.java
  bridge.basic.ConcreteImplementorB
-EJerciciosParcialFinalManuelV/ejercicio5/Client.java
- EJerciciosParcialFinalManuelV.ejercicio5.Client
+EJerciciosParcialFinalManuelV/ejercicio1/Cliente.java
+ EJerciciosParcialFinalManuelV.ejercicio1.Cliente
 adapter/basic/IAdapter.java
  adapter.basic.IAdapter
 bridge/basic/IAbstraction.java
@@ -82,9 +82,7 @@ EJerciciosParcialFinalManuelV/ejercicio5/Carcasa.java
  EJerciciosParcialFinalManuelV.ejercicio5.Carcasa
 EJerciciosParcialFinalManuelV/ejercicio1/Cochabamba.java
  EJerciciosParcialFinalManuelV.ejercicio1.Cochabamba
-EJerciciosParcialFinalManuelV/ejercicio5/DecoratorConcrete2.java
- EJerciciosParcialFinalManuelV.ejercicio5.DecoratorConcrete2
-EJerciciosParcialFinalManuelV/ejercicio1/Cliente.java
- EJerciciosParcialFinalManuelV.ejercicio1.Cliente
-proxy/basic/ISubject.java
- proxy.basic.ISubject
+EJerciciosParcialFinalManuelV/ejercicio5/Celular.java
+ EJerciciosParcialFinalManuelV.ejercicio5.Celular
+EJerciciosParcialFinalManuelV/ejercicio5/Client.java
+ EJerciciosParcialFinalManuelV.ejercicio5.Client
