@@ -33,7 +33,7 @@ public class SistemaDeColegio implements ISistemasDeControlInscripcion{
     @Override
     public void integracionRedSocial() {
         System.out.println("Añadiendo red social*********************");
-        redsocial.integracionRedSocial();
+        redsocial.integracionRedSocial(this);
 
     }
 }
