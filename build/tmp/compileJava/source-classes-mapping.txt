@@ -1,0 +1,90 @@
+decorator/basic/ComponentConcrete1.java
+ decorator.basic.ComponentConcrete1
+EJerciciosParcialFinalManuelV/ejercicio1/IDepartamento.java
+ EJerciciosParcialFinalManuelV.ejercicio1.IDepartamento
+proxy/basic/Proxy.java
+ proxy.basic.Proxy
+EJerciciosParcialFinalManuelV/ejercicio1/SantaCruz.java
+ EJerciciosParcialFinalManuelV.ejercicio1.SantaCruz
+bridge/basic/Client.java
+ bridge.basic.Client
+EJerciciosParcialFinalManuelV/ejercicio5/Celular.java
+ EJerciciosParcialFinalManuelV.ejercicio5.Celular
+decorator/basic/DecoratorConcrete1.java
+ decorator.basic.DecoratorConcrete1
+adapter/basic/ConcreteAdapter1.java
+ adapter.basic.ConcreteAdapter1
+visitor/basic/ElementConcrete2.java
+ visitor.basic.ElementConcrete2
+EJerciciosParcialFinalManuelV/ejercicio1/LaPaz.java
+ EJerciciosParcialFinalManuelV.ejercicio1.LaPaz
+decorator/basic/Client.java
+ decorator.basic.Client
+bridge/basic/ConcreteAbstraction.java
+ bridge.basic.ConcreteAbstraction
+EJerciciosParcialFinalManuelV/ejercicio5/ICelular.java
+ EJerciciosParcialFinalManuelV.ejercicio5.ICelular
+EJerciciosParcialFinalManuelV/ejercicio5/MemoriaExterna.java
+ EJerciciosParcialFinalManuelV.ejercicio5.MemoriaExterna
+adapter/basic/ConcreteAdapter2.java
+ adapter.basic.ConcreteAdapter2
+bridge/basic/ConcreteImplementorA.java
+ bridge.basic.ConcreteImplementorA
+proxy/basic/RealSubject.java
+ proxy.basic.RealSubject
+adapter/basic/ConcreteAdapterObject.java
+ adapter.basic.ConcreteAdapterObject
+adapter/basic/Client.java
+ adapter.basic.Client
+visitor/basic/ElementConcrete1.java
+ visitor.basic.ElementConcrete1
+EJerciciosParcialFinalManuelV/ejercicio1/Turista.java
+ EJerciciosParcialFinalManuelV.ejercicio1.Turista
+visitor/basic/IElement.java
+ visitor.basic.IElement
+visitor/basic/Cliente.java
+ visitor.basic.Cliente
+bridge/basic/ConcreteImplementorB.java
+ bridge.basic.ConcreteImplementorB
+EJerciciosParcialFinalManuelV/ejercicio5/Client.java
+ EJerciciosParcialFinalManuelV.ejercicio5.Client
+adapter/basic/IAdapter.java
+ adapter.basic.IAdapter
+bridge/basic/IAbstraction.java
+ bridge.basic.IAbstraction
+bridge/basic/Implementor.java
+ bridge.basic.Implementor
+decorator/basic/Decorator.java
+ decorator.basic.Decorator
+visitor/basic/ConcreteVisitante.java
+ visitor.basic.ConcreteVisitante
+adapter/basic/ConcreteAdapter3.java
+ adapter.basic.ConcreteAdapter3
+EJerciciosParcialFinalManuelV/ejercicio5/Decorator.java
+ EJerciciosParcialFinalManuelV.ejercicio5.Decorator
+decorator/basic/DecoratorConcrete2.java
+ decorator.basic.DecoratorConcrete2
+EJerciciosParcialFinalManuelV/ejercicio5/VidrioTemplado.java
+ EJerciciosParcialFinalManuelV.ejercicio5.VidrioTemplado
+decorator/basic/Component.java
+ decorator.basic.Component
+visitor/basic/ElementConcrete3.java
+ visitor.basic.ElementConcrete3
+visitor/basic/IVisit.java
+ visitor.basic.IVisit
+EJerciciosParcialFinalManuelV/ejercicio1/ITurista.java
+ EJerciciosParcialFinalManuelV.ejercicio1.ITurista
+proxy/basic/Client.java
+ proxy.basic.Client
+adapter/basic/ConcreteObject.java
+ adapter.basic.ConcreteObject
+EJerciciosParcialFinalManuelV/ejercicio5/Carcasa.java
+ EJerciciosParcialFinalManuelV.ejercicio5.Carcasa
+EJerciciosParcialFinalManuelV/ejercicio1/Cochabamba.java
+ EJerciciosParcialFinalManuelV.ejercicio1.Cochabamba
+EJerciciosParcialFinalManuelV/ejercicio5/DecoratorConcrete2.java
+ EJerciciosParcialFinalManuelV.ejercicio5.DecoratorConcrete2
+EJerciciosParcialFinalManuelV/ejercicio1/Cliente.java
+ EJerciciosParcialFinalManuelV.ejercicio1.Cliente
+proxy/basic/ISubject.java
+ proxy.basic.ISubject
